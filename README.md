@@ -1,4 +1,4 @@
 # ruins
-[room banner](Roomruins_20250604135045.png)
+![room banner](Roomruins_20250604135045.png)
 Рендер...
 Вот такой рендер. Детали и текстуры в репозитории.
